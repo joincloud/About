@@ -1,8 +1,15 @@
-# Join-Cloud
+# Join-Cloud【更新中】
 
 ![biz_arch](./doc/biz_arch.png)
 
 *JoinCloud*是一个专注家庭网络的应用。它设想去中心，可以构建在手机、树莓派、任何Iot设备，它是构建在广域网中的逻辑私有网络应用群。它加密、不可篡改、不上报任何个人数据。
+
+## JoinCloud 现有体系
+
+- [docs](https://github.com/joincloud/docs) 相关文档
+- [home-services](https://github.com/joincloud/home-services) 家庭应用后台服务集
+- [home-platform](https://github.com/joincloud/home-platform) 家庭应用后台服务平台
+- [home-app-platform](https://github.com/joincloud/home-app-platform) 家庭应用移动端App平台
 
 ## 为什么我们需要HOME
 
@@ -58,3 +65,5 @@
 
 1. P2P包通信，设备与盒子直接对接通信。
 2. 盒子分发域名，解析到盒子分到的公网IP，现在IPv6已经开始流行，广域设备都有一个IP成为趋势。
+
+待述...
